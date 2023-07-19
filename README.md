@@ -1,7 +1,7 @@
 
 # Health-Checker Website
 
-This is a simple health calculator website that allows users to calculate BMI, body fat percentage, ideal weight, and calories burned. The website provides a user-friendly interface with tab navigation for each calculator.
+This simple health calculator website allows users to calculate BMI, body fat percentage, ideal weight, and calories burned. The website provides a user-friendly interface with tab navigation for each calculator.
 
 ## Features
 
@@ -17,7 +17,7 @@ This is a simple health calculator website that allows users to calculate BMI, b
 - `script.js`: The JavaScript file containing the logic for handling the calculator calculations and interactions.
 - `bootstrap.min.css`: The Bootstrap CSS file for styling the website.
 - `jquery.min.js`: The jQuery library for JavaScript functionality.
-- `readme.txt`: This file, providing information about the website.
+- `readme.txt`: This file, provides information about the website.
 
 ## Frontend Usage
 
@@ -46,19 +46,19 @@ To run the Node.js backend for the Health-Checker website, follow these steps:
 
    The server should now be running on the specified port (e.g., `http://localhost:3000`).
 
-5. Connect frontend to the backend: In the `script.js` file, update the `backendAddress` variable with the appropriate backend URL (e.g., `http://localhost:3000`).
+5. Connect the frontend to the backend: In the `script.js` file, update the `backendAddress` variable with the appropriate backend URL (e.g., `http://localhost:3000`).
 
 ## Dependencies
 
 - Bootstrap v4.5.0: The CSS framework used for styling the website.
-- jQuery v3.5.1: The JavaScript library used for DOM manipulation and event handling.
+- jQuery v3.5.1: The JavaScript library for DOM manipulation and event handling.
 - Node.js: The JavaScript runtime environment used for the backend.
 
 ## Deployment
 
 The code for this project is deployed on GitHub and can be accessed publicly. Please visit the following GitHub repository:
 
-[GitHub Repository](https://github.com/sunnydao99/Health-Checker)
+https://github.com/sunnydao99/Health-Checker.git
 
 Please note that the deployment may not include live server functionality, and you may need to set up the backend server separately for full functionality.
 
