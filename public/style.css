@@ -1,0 +1,131 @@
+/* Global styles */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightpink;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 5px;
+  }
+  
+  header {
+    background-color: lightpink;
+    padding: 20px 0;
+  }
+  
+  .header-logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* Navigation styles */
+  nav {
+    margin-top: 10px;
+  }
+  
+  .nav-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-list li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .nav-link {
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .nav-link:hover {
+    background-color: lightpink;
+  }
+  
+  /* Tab styles */
+  .tab-pane {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .tab-pane p {
+    margin-bottom: 10px;
+  }
+  
+  /* Form styles */
+  .form-control {
+    margin-bottom: 10px;
+  }
+  
+  /* Button styles */
+  .btn {
+    margin-top: 10px;
+  }
+  
+  .btn-primary {
+    background-color: lightpink;
+    border-color: lightpink;
+  }
+  
+  .btn-primary:hover {
+    background-color: lightpink;
+  }
+  
+  /* Output styles */
+  #bmi_output,
+  #bf_output,
+  #idealWeight_output,
+  #cb_output {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  /* Modal styles */
+  .modal-body {
+    text-align: justify;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: lightpink;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-text {
+    font-size: 14px;
+  }
+  
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  .navbar {
+    background-color: transparent;
+  }
+  
